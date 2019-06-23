@@ -10,5 +10,6 @@ public class gittest {
     public static void main(String[] args) {
         System.out.println("nihao");
         System.out.println("大家好");
+        System.out.println("下载后提交的");
     }
 }
